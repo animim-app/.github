@@ -1,7 +1,7 @@
 # Animim - Bir Bölüm Yetmez
 ---- 
 
-![Animim](https://animim.app/mobility-animim-backcover.png)
+![Animim](./mobility-animim-backcover.png)
 
 Animim, 2025 yılında anime tutkunları tarafından kurulmuş, kapsamlı anime izleme platformudur. Amacımız, anime severlere kaliteli içerikler sunmak ve Türkiye'deki anime kültürünü yaygınlaştırmaktır.
 
