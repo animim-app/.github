@@ -1,7 +1,7 @@
 # Animim - Bir Bölüm Yetmez
 ---- 
 
-![Animim](./minami_og.webp)
+![Animim](../minami_og.webp)
 
 Animim, 2025 yılında anime tutkunları tarafından kurulmuş, kapsamlı anime izleme platformudur. Amacımız, anime severlere kaliteli içerikler sunmak ve Türkiye'deki anime kültürünü yaygınlaştırmaktır.
 
